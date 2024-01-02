@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MisterNevermind
 - 👀 I’m interested in wireless signals
-- 🌱 I’m currently learning ...cyber security
+- 🌱 I’m currently learning all things Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
